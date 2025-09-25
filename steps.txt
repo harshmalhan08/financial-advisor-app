@@ -1,0 +1,9 @@
+# ==============================================================================
+# CORRECTED: Load environment variables from .env file
+# ==============================================================================
+# This is the secure and standard way to manage secret keys.
+# It will automatically load the GOOGLE_API_KEY from your .env file.
+# ==============================================================================
+
+
+
